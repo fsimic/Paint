@@ -1,0 +1,18 @@
+C:\Documents and Settings\dsimic\My Documents\Visual Studio 2008\Projects\PaintProjectWFAproba\PaintProjectWFAproba\bin\Debug\PaintProjectWFAproba.exe
+C:\Documents and Settings\dsimic\My Documents\Visual Studio 2008\Projects\PaintProjectWFAproba\PaintProjectWFAproba\bin\Debug\PaintProjectWFAproba.pdb
+C:\Documents and Settings\dsimic\My Documents\Visual Studio 2008\Projects\PaintProjectWFAproba\PaintProjectWFAproba\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dsimic\My Documents\Visual Studio 2008\Projects\PaintProjectWFAproba\PaintProjectWFAproba\obj\Debug\PaintProjectWFAproba.Form1.resources
+C:\Documents and Settings\dsimic\My Documents\Visual Studio 2008\Projects\PaintProjectWFAproba\PaintProjectWFAproba\obj\Debug\PaintProjectWFAproba.Properties.Resources.resources
+C:\Documents and Settings\dsimic\My Documents\Visual Studio 2008\Projects\PaintProjectWFAproba\PaintProjectWFAproba\obj\Debug\PaintProjectWFAproba.csproj.GenerateResource.Cache
+C:\Documents and Settings\dsimic\My Documents\Visual Studio 2008\Projects\PaintProjectWFAproba\PaintProjectWFAproba\obj\Debug\PaintProjectWFAproba.exe
+C:\Documents and Settings\dsimic\My Documents\Visual Studio 2008\Projects\PaintProjectWFAproba\PaintProjectWFAproba\obj\Debug\PaintProjectWFAproba.pdb
+C:\Users\Filip\Desktop\PaintProjectWFAproba\PaintProjectWFAproba\PaintProjectWFAproba\obj\Debug\PaintProjectWFAproba.exe
+C:\Users\Filip\Desktop\PaintProjectWFAproba\PaintProjectWFAproba\PaintProjectWFAproba\obj\Debug\PaintProjectWFAproba.pdb
+C:\Users\Filip\Desktop\PaintProjectWFAproba\PaintProjectWFAproba\PaintProjectWFAproba\bin\Debug\PaintProjectWFAproba.exe
+C:\Users\Filip\Desktop\PaintProjectWFAproba\PaintProjectWFAproba\PaintProjectWFAproba\bin\Debug\PaintProjectWFAproba.pdb
+C:\Users\Filip\Desktop\PaintProjectWFAproba\PaintProjectWFAproba\PaintProjectWFAproba\obj\Debug\PaintProjectWFAproba.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\PaintProjectWFAproba\PaintProjectWFAproba\PaintProjectWFAproba\obj\Debug\PaintProjectWFAproba.Form1.resources
+C:\Users\Filip\Desktop\PaintProjectWFAproba\PaintProjectWFAproba\PaintProjectWFAproba\obj\Debug\PaintProjectWFAproba.Properties.Resources.resources
+C:\Users\Filip\Desktop\PaintProjectWFAproba\PaintProjectWFAproba\PaintProjectWFAproba\obj\Debug\PaintProjectWFAproba.csproj.GenerateResource.Cache
+C:\Users\Filip\Desktop\a\obj\Debug\PaintProjectWFAproba.exe
+C:\Users\Filip\Desktop\a\obj\Debug\PaintProjectWFAproba.pdb
